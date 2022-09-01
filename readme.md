@@ -6,7 +6,7 @@
 <br><br><br>
 
 > ## Time to complete this project 
-> # <font color="Yellow">**3 Hrs**</font>
+> # <font color="Yellow">**4 Hrs**</font>
 
 ## **By : Kalpesh K Dhotre**
 <br>
